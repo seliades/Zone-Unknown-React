@@ -7,12 +7,6 @@ Welcome to ZONE UNKNOWN, an adventure game based on survival. You find yourself 
 ### Link to Deployed Site
 https://zone-unknown-react.herokuapp.com/
 
-### Link to GitHub
-https://github.com/ericpowell3d/Zone-Unknown-React
-
-### Link to Presentation
-https://docs.google.com/presentation/d/1VJiLkdt-cI696KgL47I4Zy2lpoYuaOwEHiDqwTaFYZk/edit?usp=sharing
-
 - - -
 
 ## Description
